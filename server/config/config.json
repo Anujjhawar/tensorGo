@@ -1,0 +1,21 @@
+{
+  "development": {
+    "username": "jhawar",
+    "password": "demo",
+    "database": "tensorGo",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jhawar",
+    "password": "demo",
+    "database": "tensorGo",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jhawar",
+    "password": "demo",
+    "database": "tensorGo",
+    "host": ".",
+    "dialect": "postgres"
+  }
+}
